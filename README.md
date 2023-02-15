@@ -1,5 +1,8 @@
 # Bulk Microsoft Office A1 Plan Account Creator
-Bulk Microsoft Student A1 account creator using multiprocessing to speed up the creation 50 times faster!
+Bulk Microsoft Student A1 account creator using multithreading
+
+## DISCLAIMER: 
+I am not responsible for and in no way associated for any kind of illegal activity done using my project. I made this project purely for educational purposes.
 
 ## Usage
 > python main.py
