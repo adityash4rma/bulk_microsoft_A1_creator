@@ -1,3 +1,7 @@
+---
+⚠ NO LONGER MAINTAINED - Project is Dead as the service i was using to create accounts is dead too! No more updates from now. This project is just for showcase now.
+---
+
 # Bulk Microsoft Office A1 Plan Account Creator
 Bulk Microsoft Student A1 account creator using multithreading
 
